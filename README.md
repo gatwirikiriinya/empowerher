@@ -2,7 +2,7 @@
 
 A transformative platform empowering young African women with financial education, investment opportunities, and a supportive community for achieving financial independence.
 
-## The Problem Statement
+## Problem Statement
 
 A significant gender wealth gap exists in Africa, limiting opportunities for women to achieve financial independence. Many young African women face challenges accessing financial education, investment opportunities, and mentorship, preventing them from fully participating in the economy and realizing their financial potential.
 
