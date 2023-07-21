@@ -1,0 +1,108 @@
+/* NAv BAr */
+.navbar-nav a {
+  font-size: 18px;
+}
+.carsousel-item img {
+  height: 700px !important ;
+}
+
+.cartProductContainer {
+  border: 1px solid #ed36a1;
+  margin: 5px;
+}
+.cartProductContainer img {
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+  background-size: contain;
+}
+.w-inline-block{
+  color: #ed36a1 !important;
+
+}
+.total {
+  font-size: 3rem;
+}
+.statusContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  text-align: center;
+  position: sticky;
+  top: 0;
+  height: 300px;
+}
+
+.login-btn {
+  background: #ed36a1 !important;
+  border-radius: 0px 2px 2px 0px;
+  color: white !important;
+}
+.register {
+  background: #EDF9E2 !important;
+  border-radius: 0px 2px 2px 0px;
+  color: #ed36a1 !important;
+}
+.navbar-nav {
+  width: 100%;
+}
+.logo {
+  height: 30%;
+  width: 30%;
+}
+
+.cart {
+  background: #edfff6 !important;
+}
+
+
+.btn-signup {
+  background: #ed36a1 !important;
+  border-radius: 0px 2px 2px 0px;
+  color: white !important;
+  width: 100%;
+}
+
+.fw-normal{
+  color: #ed36a1;
+}
+.sign-up {
+  width: 600px !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 5rem !important;
+}
+
+.btn-green {
+  background: #ed36a1 !important;
+  border-radius: 0px 2px 2px 0px;
+  color: white !important;
+}
+
+.btn-green-outline {
+  border-style: solid !important;
+  border-color: #ed36a1 !important;
+  color: #ed36a1 !important;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+.navbar-brand{
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 700 !important;
+ 
+  font-size: 30px !important;
+  
+  color: #ed36a1 !important;
+  
+}
