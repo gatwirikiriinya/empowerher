@@ -1,3 +1,22 @@
+# Empower Her
+
+A transformative platform empowering young African women with financial education, investment opportunities, and a supportive community for achieving financial independence.
+
+## The Problem Statement
+
+A significant gender wealth gap exists in Africa, limiting opportunities for women to achieve financial independence. Many young African women face challenges accessing financial education, investment opportunities, and mentorship, preventing them from fully participating in the economy and realizing their financial potential.
+
+## The Proposed Solution
+
+EmpowerHer Africa provides a comprehensive solution to address these challenges. By offering educational resources, investment opportunities, and a supportive community, the platform aims to empower African women with the tools and knowledge they need to take control of their financial future.
+
+![image](https://github.com/gatwirikiriinya/empowerher/assets/106272752/101acbdd-8c13-4485-acdc-47f6f1379c6c)
+
+![image](https://github.com/gatwirikiriinya/empowerher/assets/106272752/669c1816-e0bd-4ecf-b87c-0585d002f36a)
+
+## Live link
+Visit the application on .
+
 ## Getting Started
 
 1. Clone this repository by running the following command in your terminal at the project root.
