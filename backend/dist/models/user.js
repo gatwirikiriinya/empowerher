@@ -80,7 +80,7 @@ class UserModel {
         return __awaiter(this, void 0, void 0, function* () {
             try {
                 const connection = yield database_1.default.connect();
-                const sql = `UPDATE users SET username=$1, first_name=$2, last_name=$3, phone_number=$4, email=$5, address=$6, password=$7 WHERE id=$8 RETURNING *`;
+                const sql = `UPDATE users SET  first_name=$1, last_name=$2, phone_number=$3, email=$4, password=$5 WHERE id=$6 RETURNING *`;
                 const hash = bcrypt_1.default.hashSync(updates.password + pepper, saltRounds);
                 const result = yield connection.query(sql, [
                     updates.first_name,
