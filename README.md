@@ -15,7 +15,7 @@ EmpowerHer Africa provides a comprehensive solution to address these challenges.
 ![image](https://github.com/gatwirikiriinya/empowerher/assets/106272752/669c1816-e0bd-4ecf-b87c-0585d002f36a)
 
 ## Live link
-Visit the application on .
+Visit the application on https://empowerher-rouge.vercel.app/home.html.
 
 ## Getting Started
 
